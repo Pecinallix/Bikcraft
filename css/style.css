@@ -1,10 +1,13 @@
-@import "/global/global.css"; /*Global*/
+@import "/css/global/global.css"; /*Global*/
 
-@import "/utilidades/tipografia.css"; /* utilidades */
-@import "/utilidades/cores.css"; /* utilidades */
+@import "/css/utilidades/tipografia.css"; /* utilidades */
+@import "/css/utilidades/cores.css"; /* utilidades */
 
-@import "/global/header.css"; /*home*/
+@import "/css/global/header.css"; /*home*/
 
-@import "/utilidades/componentes.css"; /* utilidades */
+@import "/css/utilidades/componentes.css"; /* utilidades */
 
-@import "/home/introducao.css"; /*home*/
+@import "/css/home/introducao.css"; /*home*/
+
+@import "/css/Bicicletas/bicicletas-lista.css"; /*Bicicletas-lista*/
+@import "/css/home/tecnologia.css"; /*Tecnologia*/
