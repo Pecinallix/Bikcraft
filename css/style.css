@@ -1,4 +1,9 @@
+@import "/css/bicicleta/bicicleta.css";
+@import "/css/bicicleta/seguro.css";
+/*Bicicleta*/
+
 @import "/css/Bicicletas/bicicletas-lista.css";
+@import "/css/Bicicletas/bicicletas.css";
 /*Bicicletas*/
 
 @import "/css/global/global.css";
@@ -13,6 +18,8 @@
 /*home*/
 
 @import "/css/seguros/seguros.css";
+@import "/css/seguros/vantagens.css";
+@import "/css/seguros/perguntas.css";
 /*Seguros*/
 
 @import "/css/termos/termos.css";
