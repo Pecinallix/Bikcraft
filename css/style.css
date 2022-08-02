@@ -17,6 +17,9 @@
 @import "/css/home/parceiros.css";
 /*home*/
 
+@import "/css/orcamento/orcamento.css";
+/*Orçamento*/
+
 @import "/css/seguros/seguros.css";
 @import "/css/seguros/vantagens.css";
 @import "/css/seguros/perguntas.css";
@@ -28,4 +31,9 @@
 @import "/css/utilidades/componentes.css";
 @import "/css/utilidades/cores.css";
 @import "/css/utilidades/tipografia.css";
+@import "/css/utilidades/formulario.css";
 /*Utilidades*/
+
+@import "/css/contato/contato.css";
+@import "/css/contato/lojas.css";
+/*Contato*/
