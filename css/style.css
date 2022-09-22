@@ -4,7 +4,7 @@
 
 @import "/css/Bicicletas/bicicletas-lista.css";
 @import "/css/Bicicletas/bicicletas.css";
-/*Bicicletas*/
+/*BicicletaS*/
 
 @import "/css/global/global.css";
 @import "/css/global/footer.css";
@@ -37,3 +37,6 @@
 @import "/css/contato/contato.css";
 @import "/css/contato/lojas.css";
 /*Contato*/
+
+@import "/css/utilidades/animacao.css";
+/* Animação */
